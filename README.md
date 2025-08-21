@@ -11,6 +11,10 @@
 </p>
 
 ---
+<!-- About + Avatar layout -->
+<table>
+<tr>
+<td valign="top" width="60%">
 
 ## 🚀 About Me
 
@@ -20,6 +24,13 @@
 - 📚 One year honing my craft at <b>Marcy Lab School</b>.
 - 🧵 I value discipline, honesty, and community — roots from Grandma Mariela & Aunt Jem.  
 - ✉️ Reach out: <a href="mailto:youngjoshua246@gmail.com">youngjoshua246@gmail.com</a>
+
+</td>
+<td width="40%" align="center">
+  <img src="./assets/joshua-avatar-pixel.png" alt="Pixel art avatar of Joshua Young" width="240">
+</td>
+</tr>
+</table>
 
 ---
 
